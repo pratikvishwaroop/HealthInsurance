@@ -1,2 +1,8 @@
 Pratik Vishwaroop
+<<<<<<< HEAD
 Working in Infu from 2021
+=======
+Age 26
+Address- Ahmednagar
+
+Moving to USA from India
